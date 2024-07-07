@@ -1,12 +1,12 @@
-# Ahmed Ibrahim Ahmed
+# Ahmed Ibrahim
 
 ## Skills & Technologies
 
 <div align="center">
   
-  ![C#](https://img.shields.io/badge/C%23-green)
-  ![Java](https://img.shields.io/badge/Java-green)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-green)
+  ![C#](https://img.shields.io/badge/C%23-Familiar-yellow)
+  ![Java](https://img.shields.io/badge/Java-Familiar-yellow)
+  ![JavaScript](https://img.shields.io/badge/JavaScript Familiar-yellow)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Proficient-blue)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-Proficient-blue)
   ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-Proficient-blue)
