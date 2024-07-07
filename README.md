@@ -4,25 +4,25 @@
 
 <div align="center">
   
-  ![C#](https://img.shields.io/badge/C%23-Familiar-yellow)
-  ![Java](https://img.shields.io/badge/Java-Familiar-yellow)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-Familiar-yellow)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Familiar-yellow)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-Familiar-yellow)
-  ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-Familiar-yellow)
-  ![HTML](https://img.shields.io/badge/HTML-Familiar-yellow)
-  ![CSS](https://img.shields.io/badge/CSS-Familiar-yellow)
-  ![React JS](https://img.shields.io/badge/React%20JS-Familiar-yellow)
+  ![C#](https://img.shields.io/badge/C%23-Familiar-yellow?logo=c-sharp)
+  ![Java](https://img.shields.io/badge/Java-Familiar-yellow?logo=java)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-Familiar-yellow?logo=javascript)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Familiar-yellow?logo=tailwind-css)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-Familiar-yellow?logo=bootstrap)
+  ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-Familiar-yellow?logo=.net)
+  ![HTML](https://img.shields.io/badge/HTML-Familiar-yellow?logo=html5)
+  ![CSS](https://img.shields.io/badge/CSS-Familiar-yellow?logo=css3)
+  ![React JS](https://img.shields.io/badge/React%20JS-Familiar-yellow?logo=react)
   
-  ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-Familiar-yellow)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Familiar-yellow)
-  ![Oracle](https://img.shields.io/badge/Oracle-Familiar-yellow)
+  ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-Familiar-yellow?logo=microsoft-sql-server)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Familiar-yellow?logo=postgresql)
+  ![Oracle](https://img.shields.io/badge/Oracle-Familiar-yellow?logo=oracle)
   
-  ![Photoshop](https://img.shields.io/badge/Photoshop-Familiar-yellow)
-  ![Figma](https://img.shields.io/badge/Figma-Familiar-yellow)
-  ![Illustrator](https://img.shields.io/badge/Illustrator-Familiar-yellow)
+  ![Photoshop](https://img.shields.io/badge/Photoshop-Familiar-yellow?logo=adobe-photoshop)
+  ![Figma](https://img.shields.io/badge/Figma-Familiar-yellow?logo=figma)
+  ![Illustrator](https://img.shields.io/badge/Illustrator-Familiar-yellow?logo=adobe-illustrator)
   
-  ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-Familiar-yellow)
+  ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-Familiar-yellow?logo=adobe-premiere-pro)
   
 </div>
 
@@ -49,7 +49,9 @@
 
 <div align="center">
   
-  [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/MasterWithAhmad)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/Ahmad.eyhash@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/MasterWithAhmad)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/YourProfile)
   
 </div>
+
+---
