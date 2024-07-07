@@ -50,7 +50,7 @@
 <div align="center">
   
   [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/MasterWithAhmad)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/YourProfile)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ahmad-eyhash-9b5a31317?trk=contact-info)
   
 </div>
 
