@@ -92,6 +92,6 @@
 <div align="center">
   
   [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/MasterWithAhmad)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ahmad-eyhash-9b5a31317?trk=contact-info)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ahmed-ibrahim-401567206?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
   
 </div>
